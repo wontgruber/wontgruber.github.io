@@ -1,2 +1,3 @@
 name: Nick Wilgruber
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
