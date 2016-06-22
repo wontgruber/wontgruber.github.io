@@ -1,3 +1,19 @@
-name: Nick Wilgruber
+
+#Title of the website
+title: "Wilgruber Cartography"
+
+# The slogan describes the website and is used on homepage in <title> and other important places
+slogan: "TBD"  # Something like: "All things web-geospatial"
+
+# Main author of the website
+author: wontgruber
+
+# The main url for the site 
+url: https://wontgruber.github.io
+
+# This points directly to the images directory
+images: https://wontgruber.github.io/images
+
+# Theme related things
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
