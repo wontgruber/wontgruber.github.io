@@ -1,17 +1,17 @@
 - name: GitHub
-  url: http://github.com/
+  url: http://github.com/wontgruber
   class: icon-github
-  title: ""
+  title: "Check out my code."
 
-- name: YouTube
-  url: http://www.youtube.com/
-  class: icon-youtube
-  title: ""
+#- name: YouTube
+#  url: http://www.youtube.com/
+#  class: icon-youtube
+#  title: ""
 
 - name: Twitter
-  url: http://twitter.com/
+  url: http://twitter.com/wontgruber
   class: icon-twitter
-  title: ""
+  title: "Tweet rarely, lurk often."
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/
