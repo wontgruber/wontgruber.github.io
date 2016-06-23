@@ -102,7 +102,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: wontgruber     # Default author for pages
   -
     scope:
       path: ""
