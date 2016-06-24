@@ -19,6 +19,10 @@
     url: "#"
   - title: "Dropdown Menu 3"
     url: "#"
+    
+- title: "About"
+  url: "/about/"
+  side: left    
 
 - title: Blog
   url: "/blog/"
@@ -30,9 +34,6 @@
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
 
 - title: "Search"
   url: "/search/"
