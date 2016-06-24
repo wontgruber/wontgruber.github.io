@@ -13,9 +13,9 @@ tags:
 #
 # Styling
 #
-image:
-    homepage: trees.jpg
-    caption: From Unsplash
+header:
+    image_fullwidth: trees.jpg
+    caption: Image from Unsplash
     caption_url: https://unsplash.com/
 #
 # Metainformation & Customization
