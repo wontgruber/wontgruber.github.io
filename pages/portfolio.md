@@ -19,6 +19,10 @@ image:
     homepage:
     caption: From Unsplash
     caption_url: https://unsplash.com/
+#
+# Metainformation & Customization
+#
+permalink: /portfolio/
 ---
 
 
