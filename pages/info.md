@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-subheadline: "Me"
+subheadline: "Find out"
 teaser: ""
 permalink: /about/
 ---
