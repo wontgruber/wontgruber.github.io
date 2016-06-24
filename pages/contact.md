@@ -7,9 +7,9 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
-
-
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+<form action="https://formspree.io/nwilgruber@gmail.com"
+      method="POST">
+    <input type="email" name="Email">
+    <input type="textarea" name="Say hello!">
+    <input type="submit" value="Send">
+</form>
