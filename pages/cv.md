@@ -7,7 +7,7 @@ subheadline: ""
 title: "CV"
 teaser: ""
 meta_description:
-permalink:
+permalink: /cv/
 categories:
     - 
 tags:
