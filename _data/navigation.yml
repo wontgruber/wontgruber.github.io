@@ -5,7 +5,7 @@
   url: "/"
   side: left
   
-  - title: Portfolio
+- title: Portfolio
   url: "/portfolio"
   side: left
 
