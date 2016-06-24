@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Info"
-subheadline: "About Your Project"
+title: "About"
+subheadline: "Me"
 teaser: ""
-permalink: /info/
+permalink: /about/
 ---
