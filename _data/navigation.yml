@@ -20,13 +20,12 @@
   - title: "Dropdown Menu 3"
     url: "#"
     
-- title: "CV"
-  url: "/cv/"
-  side: left    
-    
 - title: "About"
   url: "/about/"
-  side: left    
+  side: left  
+  dropdown:
+  - title: "CV"
+    url: "/cv"
 
 - title: Blog
   url: "/blog/"
