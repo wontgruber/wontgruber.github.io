@@ -14,9 +14,7 @@ tags:
 # Styling
 #
 image:
-    title:
-    thumb:
-    homepage:
+    homepage:trees.jpg
     caption: From Unsplash
     caption_url: https://unsplash.com/
 #
