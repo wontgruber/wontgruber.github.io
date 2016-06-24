@@ -8,17 +8,6 @@
 - title: Portfolio
   url: "/portfolio"
   side: left
-
-- title: "Dropdown Menu"
-  url: "#"
-  side: left
-  dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
     
 - title: "About"
   url: "/about/"
