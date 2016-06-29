@@ -10,7 +10,7 @@ teaser: "I'm still figuring it out..."
 # Styling
 #
 header:
-    image_fullwidth: waterfall_header.jpg
+    image_fullwidth: waterfall_header21x9.jpg
     caption: Image from Unsplash
     caption_url: https://unsplash.com/
 #
