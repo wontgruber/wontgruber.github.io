@@ -12,7 +12,7 @@ permalink: "/contact/"
       <fieldset>
             <label for="email">Email:</label>
             <input type="email" name="Email"> 
-            <input type="textarea" name="Say hello!" rows="10" cols="50" value="Say Hello"></textarea>
+            <input type="text" name="text" value="Say Hello">
             <input type="submit" value="Send">
       </fieldset>
 </form>
