@@ -9,7 +9,7 @@
 #
 - title: "About"
   url: "/about/"
-  side: left  
+  side: right  
   dropdown:
   - title: CV
     url: "/cv"
