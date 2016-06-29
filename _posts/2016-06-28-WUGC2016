@@ -6,15 +6,15 @@ layout: page
 subheadline: "Mapping twitter and ultimate"
 title: "#WUGC2016 Tweets"
 teaser: "Watch London light up as teams compete at WUGC 2016"
-categories:
-  - maps, tiwtter
-tags:
-  - maps, tiwtter
+categories: maps, tiwtter
+  -
+tags: maps, tiwtter
+  -
 #
 # Styling
 #
 image:
-  header: ""
+  header: "wugc2016.jpg"
   thumb: ""
   homepage: ""
   caption: ""
