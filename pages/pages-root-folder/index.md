@@ -1,9 +1,8 @@
 ---
 layout: blog-fullwidth
-title: "Blog"
-teaser: "This is the Blog Template."
 header:
     image_fullwidth: "Space-X-cropped.jpg"
     caption: Image from Unsplash
     caption_url: https://unsplash.com/
+permalink: /index.html
 ---
