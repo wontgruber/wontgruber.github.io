@@ -11,8 +11,6 @@
   url: "/about/"
   side: right  
   dropdown:
-  - title: CV
-    url: "/cv"
   - title: Portfolio
     url: "/portfolio"
     
