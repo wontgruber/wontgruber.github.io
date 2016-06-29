@@ -1,7 +1,7 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Home
+- title: nickwilgruber
   url: "/"
   side: left
   
@@ -17,9 +17,6 @@
 - title: Blog
   url: "/blog/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
