@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: turbines.jpg
 widget1:
-  title: ""
+  title: 
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: ''
