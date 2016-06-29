@@ -5,16 +5,15 @@
   url: "/"
   side: left
   
-- title: Portfolio
-  url: "/portfolio"
-  side: left
-    
 - title: "About"
   url: "/about/"
   side: left  
   dropdown:
   - title: "CV"
     url: "/cv"
+  dropdown:
+  - title: Portfolio
+    url: "/portfolio"
 
 - title: Blog
   url: "/blog/"
