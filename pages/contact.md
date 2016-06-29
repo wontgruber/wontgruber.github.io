@@ -11,8 +11,8 @@ permalink: "/contact/"
       method="POST">
       <fieldset>
             <label for="email">Email:</label>
-            <input type="email" name="Email" value="Email"> 
-            <input type="textarea" name="Say hello!" rows="10" cols="50" value="Say Hello">
+            <input type="email" name="Email"> 
+            <input type="textarea" name="Say hello!" rows="10" cols="50" value="Say Hello"></textarea>
             <input type="submit" value="Send">
       </fieldset>
 </form>
