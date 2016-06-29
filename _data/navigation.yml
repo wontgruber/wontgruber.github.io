@@ -11,7 +11,6 @@
   dropdown:
   - title: CV
     url: "/cv"
-  dropdown:
   - title: Portfolio
     url: "/portfolio"
 
