@@ -10,8 +10,8 @@ permalink: "/contact/"
 <form action="https://formspree.io/nwilgruber@gmail.com"
       method="POST">
       <fieldset>
-            <input type="email" name="Email"> <label for="email">Email:</label>
-            <input type="textarea" name="Say hello!" value="Say Hello">
+            <input type="email" name="Email" value="Email"> 
+            <input type="textarea" name="Say hello!" rows="10" cols="50" value="Say Hello">
             <input type="submit" value="Send">
       </fieldset>
 </form>
