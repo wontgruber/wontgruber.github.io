@@ -9,7 +9,7 @@
   url: "/about/"
   side: left  
   dropdown:
-  - title: "CV"
+  - title: CV
     url: "/cv"
   dropdown:
   - title: Portfolio
