@@ -15,6 +15,7 @@
     url: "/cv"
   - title: Portfolio
     url: "/portfolio"
+    
 - title: "Contact"
   url: "/contact/"
   side: right
