@@ -1,1 +1,24 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: "Mapping twitter and ultimate"
+title: "#WUGC2016 Tweets"
+teaser: "Watch London light up as teams compete at WUGC 2016"
+categories:
+  - maps, tiwtter
+tags:
+  - maps, tiwtter
+#
+# Styling
+#
+image:
+  header: ""
+  thumb: "you-can-delete-me-thumb.png"
+  homepage: "you-can-delete-me-homepage.png"
+  caption: "Caption?"
+  url: "http://phlow.de/"
+---
+
 This past week, the World Ultimate and Guts Championships where held in London. 
