@@ -9,7 +9,9 @@ permalink: "/contact/"
 
 <form action="https://formspree.io/nwilgruber@gmail.com"
       method="POST">
-    <input type="email" name="Email">
-    <input type="textarea" name="Say hello!">
-    <input type="submit" value="Send">
+      <fieldset>
+            <input type="email" name="Email">
+            <input type="textarea" name="Say hello!">
+            <input type="submit" value="Send">
+      </fieldset>
 </form>
