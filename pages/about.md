@@ -6,7 +6,6 @@ layout: page
 title: "About Nick"
 subheadline: ""
 teaser: "I'm still figuring it out..."
-
 #
 # Styling
 #
