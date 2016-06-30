@@ -1,3 +1,18 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: ""
+title: ""
+teaser: ""
+categories:
+  - 
+tags:
+  - 
+permalink: /WUGCmap/  
+---
+
 <!DOCTYPE html>
 <html>
   <head>
