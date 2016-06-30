@@ -1,5 +1,5 @@
 ---
-layout: blog-fullwidth
+layout: frontpage
 header:
     image_fullwidth: "Space-X-cropped.jpg"
     caption: Image from Unsplash
