@@ -1,6 +1,6 @@
 ---
 layout: frontpage
 header:
-    image_fullwidth: "Space_X_16x5.jpg"
+    image_fullwidth: "floor.jpg"
 permalink: /index.html
 ---
