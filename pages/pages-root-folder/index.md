@@ -1,8 +1,6 @@
 ---
 layout: frontpage
 header:
-    image_fullwidth: "Space-X-cropped.jpg"
-    caption: Image from Unsplash
-    caption_url: https://unsplash.com/
+    image_fullwidth: "Space_X_16x5.jpg"
 permalink: /index.html
 ---
