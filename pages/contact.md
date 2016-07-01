@@ -4,6 +4,8 @@ title: "Contact"
 meta_title: "Contact Us"
 subheadline: ""
 teaser: ""
+header:
+    image_fullwidth: yellow2100x553.jpg
 permalink: "/contact/"
 ---
 
