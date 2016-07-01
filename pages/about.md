@@ -16,6 +16,6 @@ header:
 #
 permalink: /about/
 ---
-Nick is a mapper, learner, and thinker currently living in Pittsburgh, Pennsylvania. He has spent time working or studying in environmental science, teaching, planning, geography -- and more recently programming. He also plays a lot of frisbee.
+Nick is a mapper, learner, and thinker currently living in Pittsburgh, Pennsylvania. He has spent time working or studying in environmental science, teaching, planning, geography -- and more recently programming. Nick enjoys playing with data to make maps that tell a story, make you think, or have a little fun (ideally all three). He also plays a lot of frisbee.
 
 See Nick's CV [here](http://www.nickwilgruber.com/cv/).
