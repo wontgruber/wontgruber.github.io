@@ -11,8 +11,8 @@ teaser: "He's still figuring it out..."
 #
 header:
     image_fullwidth: waterfall_header1600x361.jpg
-    caption: Image from Unsplash
-    caption_url: https://unsplash.com/
+    caption: 
+    caption_url: 
 #
 # Metainformation & Customization
 #
