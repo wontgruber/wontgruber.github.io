@@ -17,6 +17,7 @@ tags:
 #### Nicholas Wilgruber
 -----
 ##### Education
+
 M.A. University of Oklahoma, Norman, OK                                                         2014
 Geography; Summa cum laude
  
@@ -28,6 +29,7 @@ Biology
 
 ----- 
 ##### Work Experience
+
  BAE Systems: GIS Technician                                                                    2015 – present
   Analyze and interpret satellite imagery, extract features to contractual specifications using ArcGIS
  
@@ -41,7 +43,8 @@ Biology
   Designed research methods to examine impacts of agricultural and urban land use on stream resilience, calculated metrics for stakeholder communication, operated backpack electroshocker
 
  -----
- #### Community
+ ##### Community
+ 
  Lehigh Valley Ultimate: President - Board of Directors                                         2015 – present
   Create new programs, activities, and initiatives, establish policies for the organization, make
   budgetary decisions, steer the direction of the organization into the future          
@@ -53,7 +56,7 @@ Biology
   Developed team programming and practice structure, analyzed team performance, implemented new strategies, taught players of various skill levels, helped build team culture and player buy-in
 
 ----
-##### Selected Presentations
+ ##### Selected Presentations
  Wilgruber, N.A., Julian, J.P., and de Beurs, K.M., and Mayer, P.M. (2014). Land Cover Impacts on Stream Channel Loss in Central Oklahoma from 1874 to 2010. Joint Aquatic Sciences Meeting, 2014, Portland, OR.
  
  Roy, A.H., Grandinetti, M.E., and Wilgruber, N.A. (2014). Exploring Sublethal Effects of Urbanization: Fish and Macroinvertebrate Movement. 3rd Symposium on Urbanization and Stream Ecology, 2014, Portland, OR.
