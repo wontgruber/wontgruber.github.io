@@ -29,29 +29,29 @@ Northampton Community College - 2009
 ----- 
 
 #### Professional Experience
- BAE Systems: GIS Technician  2015 – present
+ BAE Systems: GIS Technician  2015 – present  
   Analyze and interpret satellite imagery, extract features to contractual specifications using ArcGIS
  
- Northampton Community College: Adjunct Professor of Geography  2015
+ Northampton Community College: Adjunct Professor of Geography  2015  
   Taught Environmental Sustainability and World Geography, researched sustainability best practices and concepts to bring to the classroom, communicated complex ideas in simple ways
  
- University of Oklahoma: Graduate Research Assistant  2012 – 2014
+ University of Oklahoma: Graduate Research Assistant  2012 – 2014  
   Designed and executed two year research effort, collected, created, and analyzed historical and current stream and land use data from historical images, created a GIS for a local watershed to inform watershed planning, quantified stream losses and land changes over time using statistical analysis
 
- Kutztown University: Undergraduate Research Assistant  2010
+ Kutztown University: Undergraduate Research Assistant  2010  
   Designed research methods to examine impacts of agricultural and urban land use on stream resilience, calculated metrics for stakeholder communication, operated backpack electroshocker
 
  -----
  
 #### Volunteer Experience
- Lehigh Valley Ultimate: President - Board of Directors  2015 – present
+ Lehigh Valley Ultimate: **President - Board of Directors**  2015 – present  
   Create new programs, activities, and initiatives, establish policies for the organization, make
   budgetary decisions, steer the direction of the organization into the future          
  
- Lehigh Valley Ultimate: Director  2014 – 2015
+ Lehigh Valley Ultimate: **Director**  2014 – 2015  
   Organized and managed leagues, design league formats and schedules, developed new programming and community engagement curriculum, managed social media
  
- Muhlenberg College Ultimate Frisbee Club: Assistant Coach  2014 – 2015
+ Muhlenberg College Ultimate Frisbee Club: **Assistant Coach**  2014 – 2015  
   Developed team programming and practice structure, analyzed team performance, implemented new strategies, taught players of various skill levels, helped build team culture and player buy-in
 
 ----
