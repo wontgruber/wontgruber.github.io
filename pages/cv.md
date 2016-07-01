@@ -8,6 +8,8 @@ title: "Curriculum Vitae"
 teaser: ""
 meta_description:
 permalink: /cv/
+header:
+    image_fullwidth: road2100x500.jpg
 categories:
     - 
 tags:
