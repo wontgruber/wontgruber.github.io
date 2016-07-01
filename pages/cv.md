@@ -54,13 +54,13 @@ Biology
 
 ----
 ##### Selected Presentations
-Wilgruber, N.A., Julian, J.P., and de Beurs, K.M., and Mayer, P.M. (2014). Land Cover Impacts on Stream Channel Loss in Central Oklahoma from 1874 to 2010. Joint Aquatic Sciences Meeting, 2014, Portland, OR.
+ Wilgruber, N.A., Julian, J.P., and de Beurs, K.M., and Mayer, P.M. (2014). Land Cover Impacts on Stream Channel Loss in Central Oklahoma from 1874 to 2010. Joint Aquatic Sciences Meeting, 2014, Portland, OR.
  
-Roy, A.H., Grandinetti, M.E., and Wilgruber, N.A. (2014). Exploring Sublethal Effects of Urbanization: Fish and Macroinvertebrate Movement. 3rd Symposium on Urbanization and Stream Ecology, 2014, Portland, OR.
+ Roy, A.H., Grandinetti, M.E., and Wilgruber, N.A. (2014). Exploring Sublethal Effects of Urbanization: Fish and Macroinvertebrate Movement. 3rd Symposium on Urbanization and Stream Ecology, 2014, Portland, OR.
  
-Wilgruber, N.A., Martin-Mikel C.J., Julian, J.P., and de Beurs, K.M. (2013). The Evolving Drainage Network of an Urbanizing Watershed: A Case Study of the Lake Thunderbird Watershed in Central Oklahoma from 1874 to 2010. The U.S. Regional Association of the International Association for Landscape Ecology, 2013, Austin, TX.
+ Wilgruber, N.A., Martin-Mikel C.J., Julian, J.P., and de Beurs, K.M. (2013). The Evolving Drainage Network of an Urbanizing Watershed: A Case Study of the Lake Thunderbird Watershed in Central Oklahoma from 1874 to 2010. The U.S. Regional Association of the International Association for Landscape Ecology, 2013, Austin, TX.
  
-Wilgruber, N.A. and Roy, A.H. (2011). Assessing resilience in urban and forested streams by experimental fish removal. Commonwealth of Pennsylvania University Biologists Conference, 2011, California, PA.
+ Wilgruber, N.A. and Roy, A.H. (2011). Assessing resilience in urban and forested streams by experimental fish removal. Commonwealth of Pennsylvania University Biologists Conference, 2011, California, PA.
  
 ##### Publications
 Julian J.P., Wilgruber N., de Beurs K.M., Mayer P.M., Jawarneh R. (2015). Long-term impacts of land cover changes on stream channel loss. Science of the Total Environment 537: 399-410.
