@@ -31,7 +31,7 @@ Northampton Community College - 2009
 
 #### Professional Experience
  BAE Systems: GIS Technician  2015 – present
-   Analyze and interpret satellite imagery, extract features to contractual specifications using ArcGIS
+  Analyze and interpret satellite imagery, extract features to contractual specifications using ArcGIS
  
  Northampton Community College: Adjunct Professor of Geography  2015
   Taught Environmental Sustainability and World Geography, researched sustainability best practices and concepts to bring to the classroom, communicated complex ideas in simple ways
