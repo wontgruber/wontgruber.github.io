@@ -16,19 +16,19 @@ tags:
     - 
 ---
 
-#### Education
-##### M.A. Geography  
+### Education
+**M.A. Geography**  
 University of Oklahoma - 2014
 
-##### B.S. Environmental Science  
+**B.S. Environmental Science**  
 Kutztown University of Pennsylvania - 2012
 
-##### A.S. Biology  
+**A.S. Biology**  
 Northampton Community College - 2009
 
 ----- 
 
-#### Professional Experience
+### Professional Experience
  **BAE Systems**: *GIS Technician*  2015 – present  
   Analyze and interpret satellite imagery, extract features to contractual specifications using ArcGIS
  
@@ -43,7 +43,7 @@ Northampton Community College - 2009
 
  -----
  
-#### Volunteer Experience
+### Volunteer Experience
  **Lehigh Valley Ultimate**: *President - Board of Directors*  2015 – present  
   Create new programs, activities, and initiatives, establish policies for the organization, make
   budgetary decisions, steer the direction of the organization into the future          
@@ -56,7 +56,16 @@ Northampton Community College - 2009
 
 ----
 
-#### Selected Presentations
+### Computer Skills  
+ Geographic Information Systems using ERSI ArcGIS, QGIS, and GDAL  
+ Version control with Git and Github  
+ Basic front end web development with HTML, CSS, JavaScript, and Jekyll  
+ CartoDB platfrom  
+ Web mapping with Leaftlet.js  
+
+----
+
+### Selected Presentations
  Wilgruber, N.A., Julian, J.P., and de Beurs, K.M., and Mayer, P.M. (2014). Land Cover Impacts on Stream Channel Loss in Central Oklahoma from 1874 to 2010. Joint Aquatic Sciences Meeting, 2014, Portland, OR.
  
  Roy, A.H., Grandinetti, M.E., and Wilgruber, N.A. (2014). Exploring Sublethal Effects of Urbanization: Fish and Macroinvertebrate Movement. 3rd Symposium on Urbanization and Stream Ecology, 2014, Portland, OR.
@@ -67,7 +76,7 @@ Northampton Community College - 2009
  
 ----
 
-#### Publications
+### Publications
 Julian J.P., Wilgruber N., de Beurs K.M., Mayer P.M., Jawarneh R. (2015). Long-term impacts of land cover changes on stream channel loss. Science of the Total Environment 537: 399-410.
  
 Julian J.P., Doyle M.W., Podolak C.J.P., Manners R.B., Hester E., Meitzen K.M., Ensign S., Wilgruber N. (In review). Bio-Hydro-Geomorphic Connections in Stream Channels. In J.B. Jones & E.H. Stanley (Eds.), Streams in a Changing Environment. Academic Press
