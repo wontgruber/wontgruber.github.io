@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-title: "Nick"
+title: "About Nick"
 subheadline: ""
-teaser: "is still figuring it out..."
+teaser: "He's still figuring it out..."
 #
 # Styling
 #
