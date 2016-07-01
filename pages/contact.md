@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact Us"
+meta_title: "Contact"
 subheadline: ""
 teaser: ""
 header:
