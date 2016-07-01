@@ -17,13 +17,13 @@ tags:
 ---
 
 #### Education
-M.A. Geography
+M.A. Geography  
 University of Oklahoma - 2014
 
-B.S. Environmental Science
+B.S. Environmental Science  
 Kutztown University of Pennsylvania - 2012
 
-A.S. Biology
+A.S. Biology  
 Northampton Community College - 2009
 
 ----- 
