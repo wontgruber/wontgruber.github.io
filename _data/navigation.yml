@@ -10,10 +10,7 @@
 - title: "About"
   url: "/about/"
   side: right  
-  dropdown:
-  - title: Portfolio
-    url: "/portfolio"
-    
+  
 - title: "Contact"
   url: "/contact/"
   side: right
