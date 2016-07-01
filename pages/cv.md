@@ -14,10 +14,10 @@ tags:
     - 
 ---
 
-#### Nicholas Wilgruber
+### Nicholas Wilgruber
 -----
-##### Education
 
+##### Education
 M.A. University of Oklahoma, Norman, OK                                                         2014
 Geography; Summa cum laude
  
@@ -28,8 +28,8 @@ A.S. Northampton Community College, Bethlehem, PA                               
 Biology
 
 ----- 
-##### Work Experience
 
+##### Work Experience
  BAE Systems: GIS Technician                                                                    2015 – present
   Analyze and interpret satellite imagery, extract features to contractual specifications using ArcGIS
  
@@ -43,6 +43,7 @@ Biology
   Designed research methods to examine impacts of agricultural and urban land use on stream resilience, calculated metrics for stakeholder communication, operated backpack electroshocker
 
  -----
+ 
  ##### Community
  
  Lehigh Valley Ultimate: President - Board of Directors                                         2015 – present
@@ -56,6 +57,7 @@ Biology
   Developed team programming and practice structure, analyzed team performance, implemented new strategies, taught players of various skill levels, helped build team culture and player buy-in
 
 ----
+
  ##### Selected Presentations
  Wilgruber, N.A., Julian, J.P., and de Beurs, K.M., and Mayer, P.M. (2014). Land Cover Impacts on Stream Channel Loss in Central Oklahoma from 1874 to 2010. Joint Aquatic Sciences Meeting, 2014, Portland, OR.
  
@@ -64,7 +66,8 @@ Biology
  Wilgruber, N.A., Martin-Mikel C.J., Julian, J.P., and de Beurs, K.M. (2013). The Evolving Drainage Network of an Urbanizing Watershed: A Case Study of the Lake Thunderbird Watershed in Central Oklahoma from 1874 to 2010. The U.S. Regional Association of the International Association for Landscape Ecology, 2013, Austin, TX.
  
  Wilgruber, N.A. and Roy, A.H. (2011). Assessing resilience in urban and forested streams by experimental fish removal. Commonwealth of Pennsylvania University Biologists Conference, 2011, California, PA.
- 
+----
+
 ##### Publications
 Julian J.P., Wilgruber N., de Beurs K.M., Mayer P.M., Jawarneh R. (2015). Long-term impacts of land cover changes on stream channel loss. Science of the Total Environment 537: 399-410.
  
