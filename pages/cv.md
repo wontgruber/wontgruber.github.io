@@ -59,8 +59,7 @@ Northampton Community College - 2009
 ### Computer Skills  
  <ul>
  <li>Geographic Information Systems using ERSI ArcGIS, QGIS, and GDAL</li>  
- <li>Programming with Javascript and Python</li>
- <li>Version control with Git and Github</li>  
+  <li>Version control with Git and Github</li>  
  <li>Basic front end web development with HTML, CSS, JavaScript, and Jekyll</li>  
  <li>CartoDB platfrom</li>  
  <li>Web mapping with Leaftlet.js</li>  
