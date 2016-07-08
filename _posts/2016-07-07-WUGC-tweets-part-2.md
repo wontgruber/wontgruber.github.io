@@ -17,7 +17,7 @@ tags:
 image:
   header: "WUGC2_header.png"
   thumb: ""
-  homepage: ""
+  homepage: 
   caption: ""
   url: ""
 ---
