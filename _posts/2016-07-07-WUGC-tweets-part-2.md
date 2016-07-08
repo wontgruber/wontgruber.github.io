@@ -22,7 +22,7 @@ image:
   url: ""
 ---
 
-Inspired by [Andrew Hill's post](http://andrewxhill.com/blog/2015/04/17/torque-unknown/) on alternative methods using Torque maps, I wanted to play around with other ways to display the Twitter data I posted about [last week](http://www.nickwilgruber.com/maps/WUGC2016/). Again, I'm using Twitter data pulled over a 30 day period with the hashtag #WUGC2016 (World Ultimate and Guts Championships 2016) that were held in London a few weeks ago. 
+Inspired by [Andrew Hill's post](http://andrewxhill.com/blog/2015/04/17/torque-unknown/) on alternative methods using Torque maps, I wanted to play around with other ways to display the Twitter data I posted about [last week](http://www.nickwilgruber.com/maps/WUGC2016/). Again, I'm using tweets with the hashtag WUGC2016 pulled over a 30 day period. 
 
 ### Bubbles
 <iframe width="100%" height="520" frameborder="0" src="https://nwilgruber.carto.com/viz/9fce6d84-448c-11e6-ae75-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
