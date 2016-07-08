@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "#WUGC2016"
 title: "WUGC tweets part 2"
-teaser: ""
+teaser: "Playing with different ways to vizualize twitter data"
 meta_description: ""
 categories:
   - maps
@@ -27,7 +27,7 @@ Inspired by [Andrew Hill's post](http://andrewxhill.com/blog/2015/04/17/torque-u
 ### Bubbles
 <iframe width="100%" height="520" frameborder="0" src="https://nwilgruber.carto.com/viz/9fce6d84-448c-11e6-ae75-0e3ebc282e83/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-This is the more striking map of the two. As people tweet in a given location, the bubbles expand. This visualization, I think, makes it a little easier to see Twitter activity in areas with less tweets. On the other end of that, I love how chaotic the UK gets as the bubbles expand. It's visually quite fun. 
+This is the more striking map of the two. As people tweet in a given location, the bubbles expand. The visualization, I think, makes it a little easier to see Twitter activity in areas with less tweets. On the other end of that, I love how chaotic the UK gets as the bubbles expand. It's visually quite fun. 
 
 ### Static tweets
 <iframe width="100%" height="520" frameborder="0" src="https://nwilgruber.carto.com/viz/4d3f0e4a-4485-11e6-a6be-0e233c30368f/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
