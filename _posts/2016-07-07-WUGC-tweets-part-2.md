@@ -15,7 +15,7 @@ tags:
 # Styling
 #
 image:
-  header: WUGC2_header.png
+  title: "WUGC2_header.png"
   thumb: ""
   homepage: 
   caption: ""
