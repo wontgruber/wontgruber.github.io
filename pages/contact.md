@@ -15,8 +15,8 @@ Need help with a mapping project? Just want to say hello? Use the contact form b
       method="POST">
       <fieldset>
             <label for="email">Email:</label>
-            <input type="email" name="Email"> 
-            <input type="textarea" name="text" placeholder="Say Hello!">
+            <input type="email" name="Email" required> 
+            <input type="textarea" name="text" placeholder="Say Hello!" required>
             <input type="submit" value="Send">
       </fieldset>
 </form>
