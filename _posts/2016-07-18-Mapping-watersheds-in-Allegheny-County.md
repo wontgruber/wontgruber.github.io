@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Mapping watersheds in Allegheny County"
-teaser: "Playing with user interation for small watersheds plus more from twitter"
+teaser: "Playing with user interation for small watersheds"
 categories:
   - maps
 tags:
@@ -16,7 +16,7 @@ tags:
 header:
     image_fullwidth: "watershed_header.jpg"
 image:
-  title: ""
+  title: 
   thumb: ""
   homepage: 
   caption: ""
@@ -31,7 +31,7 @@ image:
  
 My goals with this map were to successfully apply that hover-over-a-watershed-and-the-polygon-lights-up technique and to create a watershed map that was more interactive than I typically see. I also ended up learning about how water flows through the city. Cool. The map is searchable, so you can find your house and see what watershed you live in. 
  
-The goals were visual. Given that, the hue (darkness/lightness) of the small watershed is basically meaningless. The shading helps differentiate between neighboring polygons, but it is based on the size of the watershed (which is redundant and is cartographic bad practice). Instead, I should have had hue based on something that adds more information density to the map (e.g. a water quality metric). I did not do that because I'm trying to keep my projects small, focused, and complete-able for now. The watershed names and shapes are correct. 
+The goals were visual. Given that, the hue (darkness/lightness) of the small watershed is basically meaningless. The shading helps differentiate between neighboring polygons, but it is based on the size of the watershed (which is redundant and is cartographic bad practice). Instead, I should have had hue based on something that adds more information density to the map (e.g. a water quality metric). I didn't do that because I'm trying to keep my projects small, focused, and complete-able for now. The watershed names and shapes are correct. 
 
 
 
