@@ -25,7 +25,7 @@ image:
 
 
 ### Watersheds
-<iframe width="100%" height="520" frameborder="0" src="https://bl.ocks.org/wontgruber/raw/a5fb00aa35d140855dacc7337c4f85ec/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<img src="wontgruber.github.io/images/inPost_watershed_image.jpg" class="img-responsive">
 [Veiw the live version of the map](https://bl.ocks.org/wontgruber/raw/a5fb00aa35d140855dacc7337c4f85ec/) |
 [Check out the code](https://bl.ocks.org/wontgruber/a5fb00aa35d140855dacc7337c4f85ec/)
  
