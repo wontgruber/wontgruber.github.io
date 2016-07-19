@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "I've arrived"
 title: "Hello world"
-teaser: "My building a website is long overdue. It's time I joined the modern age..."
+teaser: "My building a website is long overdue..."
 categories: 
   - thoughts
 tags:
