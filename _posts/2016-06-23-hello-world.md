@@ -10,20 +10,12 @@ categories:
   - thoughts
 tags:
   - thoughts
+#
+# Styling
+#
+header:
+    image_fullwidth: "hello_world_header.jpg"
 ---
 
-
-
-
- [1]: #
- [2]: #
- [3]: #
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
  
  Hello world. I'm not sure what form(s) this website will take, but I am excited about all the learning that's sure to come along with it taking shape. Stay tuned. <3
