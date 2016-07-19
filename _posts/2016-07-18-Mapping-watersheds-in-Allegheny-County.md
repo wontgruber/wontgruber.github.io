@@ -13,8 +13,10 @@ tags:
 #
 # Styling
 #
+header:
+    image_fullwidth: "watershed_header.jpg"
 image:
-  header: "watershed_header.jpg"
+  title: ""
   thumb: ""
   homepage: 
   caption: ""
