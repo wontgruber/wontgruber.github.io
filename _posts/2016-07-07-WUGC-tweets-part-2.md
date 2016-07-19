@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "#WUGC2016"
 title: "WUGC tweets part 2"
-teaser: "Playing with different ways to vizualize twitter data"
+teaser: "Exploring different ways to visualize twitter data"
 meta_description: ""
 categories:
   - maps
