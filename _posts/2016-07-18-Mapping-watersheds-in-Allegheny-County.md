@@ -24,8 +24,8 @@ image:
 
 ### Watersheds
 <iframe width="100%" height="520" frameborder="0" src="https://bl.ocks.org/wontgruber/raw/a5fb00aa35d140855dacc7337c4f85ec/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-[Veiw the live version of the map here](https://bl.ocks.org/wontgruber/raw/a5fb00aa35d140855dacc7337c4f85ec/)
-[Check out the code for this map here](https://bl.ocks.org/wontgruber/a5fb00aa35d140855dacc7337c4f85ec/)
+[Veiw the live version of the map](https://bl.ocks.org/wontgruber/raw/a5fb00aa35d140855dacc7337c4f85ec/) |
+[Check out the code](https://bl.ocks.org/wontgruber/a5fb00aa35d140855dacc7337c4f85ec/)
  
 My goals with this map were to successfully apply that hover-over-a-watershed-and-the-polygon-lights-up technique and to create a watershed map that was more interactive than I typically see. I also ended up learning about how water flows through the city. Cool. The map is searchable, so you can find your house and see what watershed you live in. 
  
