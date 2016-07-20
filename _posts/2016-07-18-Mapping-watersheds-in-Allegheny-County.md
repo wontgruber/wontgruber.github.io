@@ -23,7 +23,7 @@ image:
   url: ""
 ---
 
-My goals with this map were to successfully apply that hover-over-a-watershed-and-the-polygon-lights-up technique and to create a watershed map that was more interactive than I typically see. I also ended up learning about how water flows through the city. Cool.
+My goals with this map were to successfully apply that hover-over-a-watershed-and-the-polygon-lights-up technique that you can see in the live map and to create a watershed map that was more interactive than I typically see. I also ended up learning about how water flows through the city. Cool.
 
 ### Watersheds
 <img src="/images/inPost_watershed_image.jpg" class="img-responsive">
