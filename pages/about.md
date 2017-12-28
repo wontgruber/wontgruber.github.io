@@ -16,4 +16,4 @@ header:
 #
 permalink: /about/
 ---
-I am a developer, mapper, and generally curious person currently living in Philadelphia, Pennsylvania. I have spent time working or studying in environmental science, education, planning, geography & GIS, programming, and software development. I enjoy playing with data to make maps that tell a story, make you think, or have a little fun (ideally all three). I also play a lot of frisbee.
+I am a developer, mapper, and generally curious person living in Philadelphia, Pennsylvania. I have spent time working or studying in environmental science, education, planning, geography & GIS, and programming. I enjoy playing with data to make maps that tell a story, make you think, or have a little fun (ideally all three). I also play a lot of frisbee.
